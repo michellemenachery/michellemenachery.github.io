@@ -3,10 +3,9 @@
 #### Technical Skills: Python, SQL, HTML, CSS, AngularJS, Scikit-Learn, Matplotlib, JIRA, Matlab
 
 ## Education
-- **Master of Science in Healthcare Analytics & Information Technology** | Carnegie Mellon University, Pittsburgh, PA (_Expected Graduation: May 2025_)
-  - Coursework: Machine Learning in Production, Python Programming 2, Product Management, Database Systems
-- **Bachelor of Technology - Electrical & Electronics Engineering** | National Institute of Technology, Tiruchirappalli, India (_July 2017 - August 2021_)
-  - Coursework: Data Structures and Algorithms, Microprocessors and Microcontrollers
+- **Master of Science in Healthcare Analytics & Information Technology** | Carnegie Mellon University, Pittsburgh, PA 
+
+- **Bachelor of Technology - Electrical & Electronics Engineering** | National Institute of Technology, Tiruchirappalli, India 
 
 ## Work Experience
 **Software Analyst @ Deloitte USI, Bangalore, India (_June 2021 - July 2023_)**
@@ -33,3 +32,12 @@ Conducted VADER sentiment analysis, frequency analysis, and lemmatization on 37,
 
 ### Health Diagnostic System
 Created a full-stack app for precise disease diagnosis (Pneumonia, Brain tumor, Breast Cancer, Malaria). Employed Deep Learning, ML models, CircleCI for CI/CD, and Docker for containerization.
+
+### Restaurant Analyzer System
+Developed a full-stack project to analyze restaurant reviews and provide insights for owners. Utilized NLP for rating assignment and conducted sentiment analysis. Analyzed data specifically for Pittsburgh and the US as a whole. Managed data in PostgreSQL and created a user-friendly interface for stakeholders. 
+
+### Attendance Management System
+Developed an end-to-end Attendance Management System utilizing OpenCV, Django, Dlib, HTML, and CSS. This project aimed to streamline the manual process of employee attendance tracking through facial recognition technology. Implemented features include attendance reporting for trend analysis and leave tracking. Designed for seamless integration with various APIs and biometric devices to enhance organizational attendance management processes.
+
+### Cardiovascular Disease Decision Support System
+Developed a full-stack Cardiovascular Disease Decision Support System, including data extraction, PostgreSQL database management, and predictive modeling. Created a user-friendly interface, enabling personalized health recommendations for patients and physicians.
