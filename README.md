@@ -1,8 +1,8 @@
 
 ## Education
-- **Master of Science in Healthcare Analytics & Information Technology** | Carnegie Mellon University, Pittsburgh, PA 
+- **Master of Science in Healthcare Analytics & Information Technology at Carnegie Mellon University, Pittsburgh, PA**
 
-- **Bachelor of Technology - Electrical & Electronics Engineering** | National Institute of Technology, Tiruchirappalli, India 
+- **Bachelor of Technology in Electrical & Electronics Engineering at National Institute of Technology, Tiruchirappalli, India**
 
 ## Work Experience
 **Software Analyst @ Deloitte USI, Bangalore, India (_June 2021 - July 2023_)**
