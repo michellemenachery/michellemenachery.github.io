@@ -1,4 +1,3 @@
-# Michelle Marianne Menachery
 
 #### Technical Skills: Python, SQL, HTML, CSS, AngularJS, Scikit-Learn, Matplotlib, JIRA, Matlab
 
