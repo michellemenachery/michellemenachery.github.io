@@ -1,6 +1,4 @@
 
-#### Technical Skills: Python, SQL, HTML, CSS, AngularJS, Scikit-Learn, Matplotlib, JIRA, Matlab
-
 ## Education
 - **Master of Science in Healthcare Analytics & Information Technology** | Carnegie Mellon University, Pittsburgh, PA 
 
