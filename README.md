@@ -5,6 +5,16 @@
 - **Bachelor of Technology in Electrical & Electronics Engineering at National Institute of Technology, Tiruchirappalli, India**
 
 ## Work Experience
+**Data Science Intern @ Gray Matter Analytics, Remote (_June 2024 – August 2024_)**
+- Built advanced tools using PySpark to calculate HEDIS measure compliance risk scores and predict patient length of stay across key measures (CCS, BCS, WCV), resulting in a 37% improvement in hospital resource utilization.
+- Engineered and streamlined data pipelines on Databricks, integrating compliance data from 2018 to 2023, and created four critical features for each measure, including immunization history and prior compliance.
+- Performed exploratory data analysis and feature importance analysis using Chi-squared tests, ANOVA, logistic regression, and random forest models, improving compliance prediction accuracy from 54.1% to 92% by identifying key predictive factors.
+
+**AI Technical Lead (Intern) @ Virtual Gold, New York, NY (_June 2024 – August 2024_)**
+- Managed a team of 5 interns to deliver AI solutions, including an AI regulations chatbot, financial markets chatbot, and satellite imaging models for predicting coral bleaching.
+- Developed and implemented a scalable multi-LLM agent-based framework using AutoGen to automate medical diagnosis and medication processes, standardizing the approach across all projects.
+- Provided weekly updates directly to the CEO, conducted progress reviews to optimize workflows, and resolved technical challenges, delivering all projects on schedule with a 23% improvement in prediction accuracy.
+  
 **Software Analyst @ Deloitte USI, Bangalore, India (_June 2021 - July 2023_)**
 - Created an AngularJS outage portal for a leading US electric power client, streamlining service management and energy-saving appliance detection. Impacted 10M+ users and conserved energy equal to 60K homes/year.
 - Engineered health class and medical appointment portals utilizing AngularJS, HTML, and SCSS for a US care consortium, aiding 12M+ users, reducing no-shows to 6%, crucial during COVID-19 with 40K+ weekly video visits.
